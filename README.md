@@ -13,6 +13,7 @@ A list of NLP corpus, datasets and other language toolkits
 
 ## Corpus
 - [**QQMusicSpider**](https://github.com/yangjianxin1/QQMusicSpider) - 基于Scrapy的QQ音乐爬虫与49万+语料
+- [**ownthink/KnowledgeGraphData**](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 
 ## Toolkits
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 中文词库与结构化信息、工具收藏大全
@@ -37,6 +38,7 @@ A list of NLP corpus, datasets and other language toolkits
 - [**LDNOOBW**](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) 多语言低俗词汇库
 - [**rainarch/SentiBridge**](https://github.com/rainarch/SentiBridge) - 新闻、餐饮、旅游领域中文实体情感词库
 - [**guotong1988/chinese_dictionary**](https://github.com/guotong1988/chinese_dictionary) - 同义词表、反义词表、否定词表
+- [**huyingxi/Synonyms**](https://github.com/huyingxi/Synonyms) - 中文近义词工具包
 - [**panhaiqi/AncientPoetry**](https://github.com/panhaiqi/AncientPoetry) - 古诗词语料库
 - [**chinese-poetry/chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库
 - [**pwxcoo/chinese-xinhua**](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库
@@ -56,6 +58,7 @@ A list of NLP corpus, datasets and other language toolkits
 - [**google/UniNum**](https://github.com/google/UniNum) - 186种语言的数字叫法库
 - [**ChestnutHeng/Wudao-dict**](https://github.com/ChestnutHeng/Wudao-dict) - 有道词典命令行版本
 - [**liuhuanyong/TextGrapher**](https://github.com/liuhuanyong/TextGrapher) - 文档图谱自动化生成
+- [**bamtercelboo/corpus_process_script**](https://github.com/bamtercelboo/corpus_process_script) - 维基百科语料处理工具
 
 ### RegExp List
 - 邮箱
