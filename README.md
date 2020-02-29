@@ -14,6 +14,7 @@ A list of NLP corpus, datasets and other language toolkits
 ## Corpus
 - [**QQMusicSpider**](https://github.com/yangjianxin1/QQMusicSpider) - 基于Scrapy的QQ音乐爬虫与49万+语料
 - [**ownthink/KnowledgeGraphData**](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
+- [**Sogou Lab**](https://www.sogou.com/labs/) - 搜狗实验室语料资源
 
 ## Toolkits
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 中文词库与结构化信息、工具收藏大全
