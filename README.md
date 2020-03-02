@@ -9,6 +9,8 @@ A list of NLP corpus, datasets and other language toolkits
 - [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
 - [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
+- [**CLUEbenchmark/CLUECorpus2020)**](https://github.com/CLUEbenchmark/CLUECorpus2020) - 100GB的高质量中文预训练语料
+- [**CLUEbenchmark/CLUEDatasetSearch**](https://github.com/CLUEbenchmark/CLUEDatasetSearch) - 所有中文NLP数据集，附常用英文NLP数据集
 - [**中文情感分析语料大全**](https://www.mlln.cn/2018/10/11/%E4%B8%AD%E6%96%87%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E8%AF%AD%E6%96%99%E5%BA%93%E5%A4%A7%E5%85%A8-%E5%B8%A6%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/?tdsourcetag=s_pctim_aiomsg)
 
 ## Corpus
