@@ -6,6 +6,7 @@ A list of NLP corpus, datasets and other language toolkits
 - [**zhangyics/Chinese-abbreviation-dataset**](https://github.com/zhangyics/Chinese-abbreviation-dataset) - 中文缩写数据集
 - [**ChineseNLP**](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [**ChineseNlpCorpus**](https://github.com/SophonPlus/ChineseNlpCorpus) - 中文自然语言处理数据集收集
+- [**ChineseNLPCorpus**](https://github.com/InsaneLife/ChineseNLPCorpus) - 中文自然语言处理数据集
 - [**nlp_chinese_corpus**](https://github.com/brightmart/nlp_chinese_corpus) - 中文自然语言处理大规模语料库收集
 - [**chinese_chatbot_corpus**](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [**nlp-datasets**](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
@@ -19,6 +20,7 @@ A list of NLP corpus, datasets and other language toolkits
 - [**Sogou Lab**](https://www.sogou.com/labs/) - 搜狗实验室语料资源
 
 ## Toolkits
+- [huggingface/nlp](https://github.com/huggingface/nlp) - datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
 - [**funNLP**](https://github.com/fighting41love/funNLP) - 中文词库与结构化信息、工具收藏大全
 - [**skishore/makemeahanzi**](https://github.com/skishore/makemeahanzi) - 中文字符字形数据
 - [**kfcd/chaizi**](https://github.com/kfcd/chaizi) - 中文拆字字典
