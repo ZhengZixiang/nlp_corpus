@@ -17,6 +17,7 @@ A list of NLP corpus, datasets and other language toolkits
 - [zengjunjun / CNSD](https://github.com/zengjunjun/CNSD) - 中文自然语言推理数据集
 - [zhangyics / Chinese-abbreviation-dataset](https://github.com/zhangyics/Chinese-abbreviation-dataset) - 中文缩写数据集
 - [中文情感分析语料大全](https://www.mlln.cn/2018/10/11/%E4%B8%AD%E6%96%87%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E8%AF%AD%E6%96%99%E5%BA%93%E5%A4%A7%E5%85%A8-%E5%B8%A6%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/?tdsourcetag=s_pctim_aiomsg)
+- [SimmerChan / corpus](https://github.com/SimmerChan/corpus) - 自然语言处理，知识图谱相关语料，按照Task细分
 
 ## Toolkits
 - [fighting41love / funNLP](https://github.com/fighting41love/funNLP) - 中文词库与结构化信息、工具收藏大全
