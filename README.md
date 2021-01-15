@@ -9,6 +9,7 @@ A list of NLP corpus, datasets and other language toolkits
 - [DiDi / ChineseNLP](https://chinesenlp.xyz) - 滴滴整理的中文数据集与SOTA
 - [InsaneLife / ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) - 中文自然语言处理数据集
 - [KaiDMML / FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) - This is a dataset for fake news detection research
+- [liuhuanyong / ChineseDiachronicCorpus](https://github.com/liuhuanyong/ChineseDiachronicCorpus) - 中文历时语料库
 - [niderhoff / nlp-datasets](https://github.com/niderhoff/nlp-datasets) - NLP部分数据集集合
 - [ownthink / KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [Sogou Lab](https://www.sogou.com/labs/) - 搜狗实验室语料资源
